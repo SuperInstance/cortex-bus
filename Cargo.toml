@@ -1,0 +1,9 @@
+[package]
+name = "cortex-bus"
+version = "0.1.0"
+edition = "2021"
+description = "Event bus with CQRS pattern — Command/Query/Event separation with typed channels, event store, and projections"
+license = "MIT"
+repository = "https://github.com/SuperInstance/cortex-bus"
+
+[dependencies]
